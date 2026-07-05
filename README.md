@@ -41,16 +41,13 @@ prakhar = {
 
 ## Featured Projects
 
-### [Fault-Tolerant REST API Data Fetching System](https://github.com/jh-prakhar)
-> Zero uncaught exceptions. Fully typed. Production-ready.
-
-A modular, reusable API client with structured error handling, retry logic, and full type annotations — built to support multiple endpoint schemas without code duplication.
-
-`Python` `requests` `JSON` `Type Hints`
+### [Credit Card Loan Approval](https://github.com/jh-prakhar)
+An end-to-end Machine Learning minor project designed to automate and predict the credit card loan approval process based on applicant profiles. This project leverages historical financial records and demographic factors to classify whether an applicant will be approved or rejected.
+`Python` `Exploratory Data Analysis` `Encoding` `Feature Engineering`
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 <div align="center">
 
