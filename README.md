@@ -46,6 +46,11 @@ An end-to-end Machine Learning minor project designed to automate and predict th
 `Python` `Exploratory Data Analysis` `Encoding` `Feature Engineering`
 
 ---
+### [Global Weather Trend Forecasting](https://github.com/jh-prakhar)
+This project analyzes the GlobalWeatherRepository.csv dataset to forecast weather trends and identify environmental patterns. It covers data cleaning, exploratory data analysis (EDA), and the implementation of a machine learning ensemble to predict perceived temperatures ("Feels Like").
+`Python` `Exploratory Data Analysis` `Encoding` `Feature Engineering`
+
+---
 
 ## Tech Stack
 
