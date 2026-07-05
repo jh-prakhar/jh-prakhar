@@ -22,7 +22,7 @@
 
 ---
 
-## 🧠 About Me
+##  About Me
 
 ```python
 prakhar = {
@@ -33,33 +33,15 @@ prakhar = {
     "building"    : ["Semantic Search Engines", "GenAI Pipelines", "Recommendation Systems"],
     "certified"   : ["AWS Cloud Practitioner", "Google Advanced Data Analytics", "DeepLearning.AI NLP"],
     "superpower"  : "Translating messy data into production-ready AI — then explaining it to the business",
-    "seeking"     : "AI/ML Engineer | Data Scientist roles 🚀",
+    "seeking"     : "AI/ML Engineer | Data Scientist roles ",
 }
 ```
 
 ---
 
-## 🚀 Featured Projects
+## Featured Projects
 
-### 🎯 [Vibe Matcher — Semantic Fashion Recommendation Engine](https://github.com/jh-prakhar)
-> *"Find me something energetic urban chic"* → ✅ Done.
-
-Built a production-ready semantic search engine using **OpenAI embeddings + cosine similarity** that understands natural language style queries — not just keywords. Achieved **0.87 similarity-score accuracy** on a ~350-item evaluation set. Plug-and-play catalog expansion with zero retraining.
-
-`OpenAI API` `Scikit-learn` `Python` `Pandas` `Matplotlib`
-
----
-
-### 💄 [Cosmetics Ingredient-Based Recommendation System](https://github.com/jh-prakhar)
-> 1,472 products. Infinite ingredient combinations. One interactive map.
-
-Engineered a full ingredient document-term matrix using one-hot encoding, then applied **t-SNE** to compress high-dimensional feature space into 2D — revealing product clusters invisible to category labels. Delivered via an **interactive Bokeh dashboard**.
-
-`Pandas` `Scikit-learn` `t-SNE` `Bokeh` `Python`
-
----
-
-### 🔌 [Fault-Tolerant REST API Data Fetching System](https://github.com/jh-prakhar)
+### [Fault-Tolerant REST API Data Fetching System](https://github.com/jh-prakhar)
 > Zero uncaught exceptions. Fully typed. Production-ready.
 
 A modular, reusable API client with structured error handling, retry logic, and full type annotations — built to support multiple endpoint schemas without code duplication.
@@ -108,7 +90,7 @@ A modular, reusable API client with structured error handling, retry logic, and 
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=jh-prakhar&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=0F3460&icon_color=0F3460&text_color=ffffff" height="165" />
@@ -121,21 +103,21 @@ A modular, reusable API client with structured error handling, retry logic, and 
 
 ---
 
-## 🏅 Certifications
+## Certifications
 
 | Certification | Issuer | Year |
 |---|---|---|
-| 🎓 Google Advanced Data Analytics | Google | 2025 |
-| 📊 Google Data Analytics Professional | Google | 2025 |
-| ☁️ AWS Cloud Practitioner | Amazon Web Services | 2022 |
-| 🤖 NLP in TensorFlow | DeepLearning.AI | 2021 |
-| 🔥 PyTorch & HuggingFace Transformers | Self-directed / Projects | 2025 |
-| 🐍 Python Essentials | Cisco Networking Academy | 2025 |
-| 🧠 Machine Learning with Python | IBM Cognitive Class | 2020 |
+| Google Advanced Data Analytics | Google | 2025 |
+| Google Data Analytics Professional | Google | 2025 |
+| AWS Cloud Practitioner | Amazon Web Services | 2022 |
+| NLP in TensorFlow | DeepLearning.AI | 2021 |
+| PyTorch & HuggingFace Transformers | Self-directed / Projects | 2025 |
+| Python Essentials | Cisco Networking Academy | 2025 |
+| Machine Learning with Python | IBM Cognitive Class | 2020 |
 
 ---
 
-## 📈 Contribution Graph
+## Contribution Graph
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=jh-prakhar&bg_color=0D1117&color=0F3460&line=0F3460&point=ffffff&area=true&hide_border=true" width="100%"/>
