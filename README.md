@@ -41,12 +41,12 @@ prakhar = {
 
 ## Featured Projects
 
-### [Credit Card Loan Approval](https://github.com/jh-prakhar)
+### [Credit Card Loan Approval](https://github.com/jh-prakhar/Credit_Card_Loan)
 An end-to-end Machine Learning minor project designed to automate and predict the credit card loan approval process based on applicant profiles. This project leverages historical financial records and demographic factors to classify whether an applicant will be approved or rejected.
 `Python` `Exploratory Data Analysis` `Encoding` `Feature Engineering`
 
 ---
-### [Global Weather Trend Forecasting](https://github.com/jh-prakhar)
+### [Global Weather Trend Forecasting](https://github.com/jh-prakhar/Global-Weather-Repository)
 This project analyzes the GlobalWeatherRepository.csv dataset to forecast weather trends and identify environmental patterns. It covers data cleaning, exploratory data analysis (EDA), and the implementation of a machine learning ensemble to predict perceived temperatures ("Feels Like").
 `Python` `Exploratory Data Analysis` `Encoding` `Feature Engineering`
 
