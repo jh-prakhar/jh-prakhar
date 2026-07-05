@@ -5,7 +5,7 @@
 
 <!-- Typing animation -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=0F3460&center=true&vCenter=true&width=600&lines=Building+AI+that+actually+ships+%F0%9F%9A%80;Semantic+Search+%7C+Embeddings+%7C+LLMs;From+raw+data+to+production+pipelines;Open+to+AI%2FML+Engineer+roles+%F0%9F%91%8B" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=0F3460&center=true&vCenter=true&width=600&lines=Building+AI+that+actually+ships+%F0%9F%9A%80;PyTorch+%7C+HuggingFace+%7C+LLMs;Semantic+Search+%7C+Embeddings+%7C+GenAI;From+raw+data+to+production+pipelines;Open+to+AI%2FML+Engineer+roles+%F0%9F%91%8B" alt="Typing SVG" />
 </a>
 
 <br/>
@@ -75,7 +75,8 @@ A modular, reusable API client with structured error handling, retry logic, and 
 **AI & Machine Learning**
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
 ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=OpenCV&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
@@ -121,6 +122,7 @@ A modular, reusable API client with structured error handling, retry logic, and 
 | 📊 Google Data Analytics Professional | Google | 2025 |
 | ☁️ AWS Cloud Practitioner | Amazon Web Services | 2022 |
 | 🤖 NLP in TensorFlow | DeepLearning.AI | 2021 |
+| 🔥 PyTorch & HuggingFace Transformers | Self-directed / Projects | 2025 |
 | 🐍 Python Essentials | Cisco Networking Academy | 2025 |
 | 🧠 Machine Learning with Python | IBM Cognitive Class | 2020 |
 
