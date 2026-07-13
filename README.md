@@ -108,12 +108,10 @@ An end-to-end Natural Language Processing (NLP) project that generates concise, 
 ---
 
 ## GitHub Stats
-
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=jh-prakhar&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=0F3460&icon_color=0F3460&text_color=ffffff" height="165" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jh-prakhar&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=0F3460&text_color=ffffff" height="165" />
 </div>
-
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=jh-prakhar&theme=tokyonight&hide_border=true&background=0D1117&stroke=0F3460&ring=0F3460&fire=E74C3C&currStreakLabel=ffffff" width="60%"/>
 </div>
