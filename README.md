@@ -49,9 +49,13 @@ An end-to-end Machine Learning minor project designed to automate and predict th
 ### [Global Weather Trend Forecasting](https://github.com/jh-prakhar/Global-Weather-Repository)
 This project analyzes the GlobalWeatherRepository.csv dataset to forecast weather trends and identify environmental patterns. It covers data cleaning, exploratory data analysis (EDA), and the implementation of a machine learning ensemble to predict perceived temperatures ("Feels Like").
 `Python` `Exploratory Data Analysis` `Encoding` `Feature Engineering`
+
+---
 ### [Smart Card Customer Segmentation](https://github.com/jh-prakhar/Smart_card_customer_segmentation)
 A customer segmentation project that applies unsupervised machine learning to cluster Smart Card customers based on demographics, purchasing behavior, and spending patterns. The project includes complete data preprocessing, feature engineering, dimensionality reduction, and clustering analysis.
 `Python` `Pandas` `Numpy` `Matplotlib` `Seaborn` `Scikit-Learn` `Kneed` 
+
+---
 ### [Lung Disease Classification using MedMNIST and PyTorch](https://github.com/jh-prakhar/Lung-Disease-Classification-using-MedMNIST-and-PyTorch)
 A deep learning project that classifies chest X-ray images as Normal or Pneumonia using the MedMNIST dataset and a Convolutional Neural Network (CNN) implemented in PyTorch.
 `Python` `PyTorch` `MedMNIST` `Matplotlib` `Scikit-Learn`
