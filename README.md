@@ -27,7 +27,7 @@
 ```python
 prakhar = {
     "role"        : "AI/ML Engineer | Data Scientist",
-    "location"    : "Bengaluru, India 🇮🇳",
+    "location"    : "Bengaluru, India",
     "education"   : ["B.Tech CS — Vel Tech University", "iMBA — Birmingham City University"],
     "currently"   : "AI/ML Intern @ Labmentix (Nov 2025 – May 2026)",
     "building"    : ["Semantic Search Engines", "GenAI Pipelines", "Recommendation Systems"],
