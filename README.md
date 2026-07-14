@@ -40,6 +40,16 @@ prakhar = {
 ---
 
 ## Featured Projects
+### [AI Text Summarizer Web Application](https://github.com/jh-prakhar/AI-Text-Summarizer-Web-Application)
+An end-to-end Natural Language Processing (NLP) project that generates concise, meaningful summaries from lengthy text using a fine-tuned T5 Transformer model. The application is deployed through an interactive Gradio web interface, allowing users to summarize articles, reports, blogs, research papers, and other long-form text in real time.
+`Python` `Generative AI` `HuggingFace Transformer` `Google Research T5` `Gradio` `FASTAPI`
+
+---
+### [Lung Disease Classification using MedMNIST and PyTorch](https://github.com/jh-prakhar/Lung-Disease-Classification-using-MedMNIST-and-PyTorch)
+A deep learning project that classifies chest X-ray images as Normal or Pneumonia using the MedMNIST dataset and a Convolutional Neural Network (CNN) implemented in PyTorch.
+`Python` `PyTorch` `MedMNIST` `Matplotlib` `Scikit-Learn`
+
+---
 
 ### [Credit Card Loan Approval](https://github.com/jh-prakhar/Credit_Card_Loan)
 An end-to-end Machine Learning minor project designed to automate and predict the credit card loan approval process based on applicant profiles. This project leverages historical financial records and demographic factors to classify whether an applicant will be approved or rejected.
@@ -56,16 +66,8 @@ A customer segmentation project that applies unsupervised machine learning to cl
 `Python` `Pandas` `Numpy` `Matplotlib` `Seaborn` `Scikit-Learn` `Kneed` 
 
 ---
-### [Lung Disease Classification using MedMNIST and PyTorch](https://github.com/jh-prakhar/Lung-Disease-Classification-using-MedMNIST-and-PyTorch)
-A deep learning project that classifies chest X-ray images as Normal or Pneumonia using the MedMNIST dataset and a Convolutional Neural Network (CNN) implemented in PyTorch.
-`Python` `PyTorch` `MedMNIST` `Matplotlib` `Scikit-Learn`
 
----
-### [AI Text Summarizer Web Application](https://github.com/jh-prakhar/AI-Text-Summarizer-Web-Application)
-An end-to-end Natural Language Processing (NLP) project that generates concise, meaningful summaries from lengthy text using a fine-tuned T5 Transformer model. The application is deployed through an interactive Gradio web interface, allowing users to summarize articles, reports, blogs, research papers, and other long-form text in real time.
-`Python` `Generative AI` `HuggingFace Transformer` `Google Research T5` `Gradio` `FASTAPI`
 
----
 
 ## Tech Stack
 
